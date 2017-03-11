@@ -22,3 +22,11 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.draosWidth {
+    width: 300px !important;
+}
+
+label {
+    font-size:14px;
+}
